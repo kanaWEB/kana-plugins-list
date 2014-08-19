@@ -4,7 +4,7 @@ madnerds     |led     |objects|led,del,light,notification,trigger,objects,gpios
 
 repo         |name    |type   |tags
 -------------|--------|-------|-------------------------------------------------
-madnerds     |radio   |objects|radio,433mhz,rcswitch,chacon,dio,scs,power outlets,home automation
+madnerds     |radio   |objects|objects,radio,433mhz,rcswitch,chacon,dio,scs,power outlets,home automation
 
 repo         |name    |type   |tags
 -------------|--------|-------|---------------------------------------------------------------
@@ -12,8 +12,8 @@ madnerds     |sound   |objects|sound,mp3,doorbell,notification,trigger,objects,s
 
 repo         |name    |type   |tags
 -------------|--------|-------|-------------------------------------------------
-madnerds     |list    |views  |list,objects,display,widgets,dashboard,control
+madnerds     |list    |views  |views,list,objects,display,widgets,dashboard,control
 
 repo         |name    |type   |tags
 -------------|--------|-------|-------------------------------------------------
-madnerds     |system  |views  |system,information,ram,cpu,users,disks
+madnerds     |system  |views  |views,system,information,ram,cpu,users,disks
