@@ -28,7 +28,7 @@ madnerds     |ttsgoogle   |objects|voice,google,notification,tts,ttsgoogle
 
 repo         |name        |type   |tags
 -------------|------------|-------|-------------------------------------------------
-madnerds     |ttsespeak   |objects|voice,notification,tts,ttsespeak
+madnerds     |ttsespeak   |objects|voice,notification,tts,espeak
 
 repo         |name        |type   |tags
 -------------|------------|-------|-------------------------------------------------------------
