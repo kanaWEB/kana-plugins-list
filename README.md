@@ -27,6 +27,10 @@ repo         |name        |type   |tags
 madnerds     |ttsgoogle   |objects|voice,google,notification,tts,ttsgoogle
 
 repo         |name        |type   |tags
+-------------|------------|-------|-------------------------------------------------
+madnerds     |ttsespeak   |objects|voice,notification,tts,ttsespeak
+
+repo         |name        |type   |tags
 -------------|------------|-------|-------------------------------------------------------------
 madnerds     |growl       |objects|desktop,notification,growl,push,android,iphone,macosx,windows
 
