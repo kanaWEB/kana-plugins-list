@@ -42,6 +42,10 @@ repo         |name        |type   |tags
 -------------|------------|-------|-------------------------------------------------------------
 madnerds     |email       |objects|email,notification,gmail,outlook,hotmail
 
+repo         |name                 |type   |tags
+-------------|---------------------|-------|-------------------------------------------------------------
+madnerds     |i2clcd               |objects|screen,lcd,notifications,gpio,i2c
+
 repo         |name        |type   |tags
 -------------|------------|-------|--------------------------------------------------------------------------------
 madnerds     |computers   |objects|computers,windows,linux,control,wake-on-lan,wol,shutdown,objects,ping,vnc,remote
