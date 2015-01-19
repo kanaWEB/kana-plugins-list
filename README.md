@@ -74,9 +74,9 @@
 | -------- | ------------ | ------- | ----------------------------------- |
 | madnerds | light_sensor | sensors | sensors,light,lumens,photo resistor |
 
-| repo     | name        | type    | tags                          |
-| -------- | ----------- | ------- | ----------------------------- |
-| madnerds | temp_sensor | sensors | sensors,door,reed,reed switch |
+| repo     | name        | type    | tags                                                      |
+| -------- | ----------- | ------- | --------------------------------------------------------- |
+| madnerds | temp_sensor | sensors | sensors,temp,temperature,celsius,fahreheint,DS18B20,tmp36 |
 
 | repo     | name | type  | tags            |
 | -------- | ---- | ----- | --------------- |
