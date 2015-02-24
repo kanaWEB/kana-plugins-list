@@ -90,6 +90,10 @@
 | -------- | ---- | ----- | ----------------------------------------- |
 | madnerds | list | views | Lists,list,objects,display,mobile,desktop |
 
+| repo     | name    | type  | tags                                 |
+| -------- | ------- | ----- | ------------------------------------ |
+| madnerds | minimap | views | minimap,house,house plan,map,sensors |
+
 | repo     | name   | type  | tags                               |
 | -------- | ------ | ----- | ---------------------------------- |
 | madnerds | system | views | System,Information,CPU,Disks,Gpios |
