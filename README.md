@@ -66,6 +66,10 @@
 | -------- | --------- | ------- | --------------------------------------- |
 | madnerds | ttsgoogle | objects | voice,google,notification,tts,ttsgoogle |
 
+| repo     | name            | type    | tags |
+| -------- | --------------- | ------- | ---- |
+| madnerds | trigger_control | objects |      |
+
 | repo     | name        | type    | tags                          |
 | -------- | ----------- | ------- | ----------------------------- |
 | madnerds | door_sensor | sensors | sensors,door,reed,reed switch |
